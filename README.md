@@ -1,2 +1,2 @@
 # odin-recipes
-A simple webpage with recipes
+A simple webpage with food recipes
